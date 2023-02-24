@@ -1,0 +1,3 @@
+Olá, tive algumas complicações em enviar arquivos na branche main pelo Git Bash e pela IDEA Intellij.
+Se você estiver vendo este arquivo na branche main, significa que,
+tive sucesso em enviar pelo Git Bash.
